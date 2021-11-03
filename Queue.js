@@ -1,5 +1,3 @@
-/* ========== QUEUE ========== */
-
 class Queue {
   constructor() {
     this.storage = {};
